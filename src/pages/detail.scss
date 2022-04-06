@@ -1,0 +1,15 @@
+.detail-modal{
+    .ant-modal-body{
+        font-size: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 200px;
+        flex-direction: column;
+        i{
+            font-size: 50px;
+            margin-bottom: 20px;
+            color: #1baeae;
+        }
+    }
+}

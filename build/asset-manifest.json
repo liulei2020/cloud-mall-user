@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2968142e.css",
+    "main.js": "/static/js/main.403d99cd.js",
+    "static/js/111.ba7b8fbf.chunk.js": "/static/js/111.ba7b8fbf.chunk.js",
+    "static/media/logogif.gif": "/static/media/logogif.9f229e7c114462f52f24.gif",
+    "static/media/login1.png": "/static/media/login1.63ceabb892bf28fe207a.png",
+    "static/media/banner11.jpg": "/static/media/banner11.ab57fc1475bcf311bed9.jpg",
+    "static/media/banner12.jpg": "/static/media/banner12.60274f077bec6b7ee2a1.jpg",
+    "static/media/banner10.jpg": "/static/media/banner10.580468cdee638758343e.jpg",
+    "static/media/logo2.png": "/static/media/logo2.2f9b532249662dbdf1de.png",
+    "static/media/beian.png": "/static/media/beian.0c5770666939ca0a3bbd.png",
+    "static/media/scan-alipay.png": "/static/media/scan-alipay.13ede92cf27426f617bb.png",
+    "static/media/scan-wx.png": "/static/media/scan-wx.6329285b4cc85fa97b0f.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2968142e.css.map": "/static/css/main.2968142e.css.map",
+    "main.403d99cd.js.map": "/static/js/main.403d99cd.js.map",
+    "111.ba7b8fbf.chunk.js.map": "/static/js/111.ba7b8fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2968142e.css",
+    "static/js/main.403d99cd.js"
+  ]
+}

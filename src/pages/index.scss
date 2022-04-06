@@ -1,0 +1,36 @@
+.center{
+    .fl{
+        li{
+            white-space: nowrap;
+        }
+        .shopcart{
+            height: 40px;
+        }
+        .fr{
+            .selector{
+                .username{
+                    background: red;
+                    display: flex;
+                    justify-content: center;
+                }
+            }
+        }
+
+    }
+
+    .login{
+        margin-right: 20px;
+        li{
+            white-space: nowrap;
+        }
+    }
+}
+#content #recommend{
+    height: auto!important;
+}
+#content #recommend ul{
+    height: auto!important;
+}
+.ant-popover-placement-right > .ant-popover-content > .ant-popover-arrow, .ant-popover-placement-rightTop > .ant-popover-content > .ant-popover-arrow, .ant-popover-placement-rightBottom > .ant-popover-content > .ant-popover-arrow{
+    left: 8px;
+}
